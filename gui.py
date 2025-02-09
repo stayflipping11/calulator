@@ -1,21 +1,4 @@
 
-#def button_func(entry_string):
-   # print("button was pressed")
-  #  print(entry_string.get())
-#def outerfunc(parameters):
-   # def innerfunc():
-     #   print("a button was pressed")
-     #   print(parameters.get())
-   # return innerfunc
-
-#setup
-
-#widgets
-#entry_string=tk.StringVar(value='test')
-#entry=tk.Entry(window,textvariable=entry_string)
-#entry.pack()
-#button=tk.Button(
-   # window,text="button", command=lambda:button_func(entry_string))
 import tkinter as tk
 from tkinter import ttk
 
